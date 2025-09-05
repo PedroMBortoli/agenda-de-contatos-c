@@ -1,3 +1,4 @@
+
 # 📒 Agenda Telefônica em C
 
 Projeto simples de uma agenda telefônica desenvolvido em **C**, como parte dos meus estudos em Engenharia de Computação.  
@@ -17,3 +18,4 @@ O objetivo é praticar conceitos de **structs**, **funções** e **manipulação
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Pedro_MBortoli/AgendaTelefonica.git
+
